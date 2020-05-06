@@ -1,4 +1,4 @@
-package mibgomod01
+package github.com/bugaevski/mibgomod01
 
 //GetVersion returns version
 func GetVersion() string {
