@@ -1,3 +1,3 @@
-module github.com/bugaevski/mibgomod01
+module mibgomod01
 
 go 1.14
